@@ -44,7 +44,7 @@ repositories {
 
 buildscript {
     dependencies {
-        classpath "org.springframework.boot:spring-boot-gradle-plugin:0.5.0.M7"
+        classpath "org.springframework.boot:spring-boot-gradle-plugin:1.0.0.RC1"
     }
 	repositories {
 		jcenter()
