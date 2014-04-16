@@ -3,7 +3,7 @@ apply plugin: 'spring-boot'
 apply plugin: 'eclipse'
 apply plugin: 'idea'
 
-mainClass =  'org.liqweed.boot.ServerStarter'
+// mainClass =  'org.liqweed.boot.ServerStarter'
 
 ext {
 	springVersion = '4.0.3.RELEASE'
