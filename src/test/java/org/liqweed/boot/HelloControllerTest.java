@@ -13,6 +13,6 @@ public class HelloControllerTest {
 
 	@Test
 	public void sayHello() {
-		assertEquals("hello", new HelloController().sayHello());
+		assertEquals("hello Bob!", new HelloController().sayHello("Bob"));
 	}
 }
